@@ -1,1 +1,3 @@
 file added on desktop
+line added on branch w1
+line added on branch w1 - desktop
